@@ -36,8 +36,8 @@
   </style>
 </head>
 <body>
-  <div class="fake-video" onclick="window.location.href='[https://youtu.be/y9Auure3h4A?si=KpFHMSEyZ4EiOk3L
-](https://youtu.be/y9Auure3h4A?si=-qS7xk8_EkEM3NM8))'">
+<div class="fake-video" onclick="window.location.href='https://youtu.be/y9Auure3h4A?si=KpFHMSEyZ4EiOk3L'">
+
   <img src="https://github.com/user-attachments/assets/ee6c885b-aa99-4aaa-a87d-da81b8a2517d" alt="Thumbnail do vídeo">
 
     <div class="play-button"></div>
